@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "sourceMap": true
+  },
+  "exclude": ["node_modules", ".vscode"]
+}
